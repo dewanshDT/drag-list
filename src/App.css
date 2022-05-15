@@ -1,0 +1,21 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  margin-left: 2rem;
+  margin-top: 1rem;
+  background: palegoldenrod;
+}
+
+.node {
+  background: palevioletred;
+  margin: 0.5rem;
+  padding: 1em 0.5em;
+  width: max-content;
+}
